@@ -13,10 +13,10 @@ The in-house clinical dataset consists of paired CT–CBCT imaging scans acquire
 ## Landmark Annotation
 The landmarks we used are primarily based on key vascular or tracheal junctions and prominent anatomical features, which are identified from imaging the same patient at different time points. These landmarks demonstrate high consistency across different evaluators.
 We conducted an inter-rater consistency analysis to validate the reliability of the manual contour/landmark annotations. Specifically, we calculated the Kappa coefficient by comparing the annotations made by multiple evaluators to assess the level of agreement. If the Kappa value is below 0.6, we will further review and refine the annotations. If the Kappa value is 0.6 or above, it indicates significant consistency, and the annotations are considered reliable for subsequent analysis.
-<img src="https://github.com/computerAItest/GraphMorph/blob/main/GraphMorph/data/landmark.png?raw=true" width="900" alt="demo"/><br/>
+<img src="https://github.com/computerAItest/PROVEN/blob/main/PROVEN/data/keypointRevise.png?raw=true" width="900" alt="demo"/><br/>
 
 ## Dynamic Respiratory Motion Registration Results
-<img src="https://github.com/computerAItest/PROVEN/blob/main/PROVEN/data/keypointRevise.png?raw=true" width="900" alt="demo"/><br/>
+<img src="https://github.com/computerAItest/PROVEN/blob/main/PROVEN/data/yiying1.png?raw=true" width="900" alt="demo"/><br/>
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/computerAItest/PROVEN/blob/main/PROVEN/data/2drendering.gif?raw=true" width="300" alt="demo"/>
