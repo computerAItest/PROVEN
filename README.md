@@ -16,13 +16,13 @@ We conducted an inter-rater consistency analysis to validate the reliability of 
 <img src="https://github.com/computerAItest/GraphMorph/blob/main/GraphMorph/data/landmark.png?raw=true" width="900" alt="demo"/><br/>
 
 ## Dynamic Respiratory Motion Registration Results
-<img src="https://github.com/computerAItest/GraphMorph/blob/main/GraphMorph/data/data_Demo.png?raw=true" width="900" alt="demo"/><br/>
+<img src="https://github.com/computerAItest/PROVEN/blob/main/PROVEN/data/keypointRevise.png?raw=true" width="900" alt="demo"/><br/>
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/computerAItest/GraphMorph/blob/main/GraphMorph/data/4d_slice_registered.gif?raw=true" width="300" alt="demo"/>
-    <img src="https://github.com/computerAItest/GraphMorph/blob/main/GraphMorph/data/4d_volume_registered.gif?raw=true" width="300" alt="demo"/>
+    <img src="https://github.com/computerAItest/PROVEN/blob/main/PROVEN/data/2drendering.gif?raw=true" width="300" alt="demo"/>
+    <img src="https://github.com/computerAItest/PROVEN/blob/main/PROVEN/data/3drendering.gif?raw=true" width="300" alt="demo"/>
 </div>
 
-Post-registration 4D-CT 2D rendering  &nbsp;&nbsp; Post-registration 4D-CT 3D rendering
+2D rendering of respiratory motion after registration  &nbsp;&nbsp; 3D rendering of respiratory motion after registration
 
 
