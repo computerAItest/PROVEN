@@ -16,7 +16,7 @@ We conducted an inter-rater consistency analysis to validate the reliability of 
 <img src="https://github.com/computerAItest/PROVEN/blob/main/PROVEN/data/keypointRevise.png?raw=true" width="900" alt="demo"/><br/>
 
 ## Dynamic Respiratory Motion Registration Results
-<img src="https://github.com/computerAItest/PROVEN/blob/main/PROVEN/data/yiying1.png?raw=true" width="900" alt="demo"/><br/>
+<img src="https://github.com/computerAItest/PROVEN/blob/main/PROVEN/data/yiying1.png?raw=true" width="1200" alt="demo"/><br/>
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/computerAItest/PROVEN/blob/main/PROVEN/data/2drendering.gif?raw=true" width="300" alt="demo"/>
