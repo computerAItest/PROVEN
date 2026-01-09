@@ -21,8 +21,9 @@ We conducted an inter-rater consistency analysis to validate the reliability of 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/computerAItest/PROVEN/blob/main/PROVEN/data/2drendering.gif?raw=true" width="300" alt="demo"/>
     <img src="https://github.com/computerAItest/PROVEN/blob/main/PROVEN/data/3drendering.gif?raw=true" width="300" alt="demo"/>
+<img src="https://github.com/computerAItest/PROVEN/blob/main/PROVEN/data/tumorrendering.gif?raw=true" width="300" alt="demo"/>
 </div>
 
-2D rendering of respiratory motion after registration  &nbsp;&nbsp; 3D rendering of respiratory motion after registration
+2D rendering of respiratory motion after registration  &nbsp;&nbsp; 3D rendering of respiratory motion after registration &nbsp;&nbsp; Spatiotemporal tumor variation across phases after registration
 
 
