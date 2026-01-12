@@ -43,6 +43,6 @@ Spatiotemporal tumor variation across phases after registration
 <img src="https://github.com/computerAItest/PROVEN/blob/main/PROVEN/data/with_MDRM.gif?raw=true" width="300" alt="demo"/> 
 
 </div> 
-2Without MDRM: discontinuous and jittery motion &nbsp;&nbsp; With MDRM: smooth and continuous motion
+Without MDRM: discontinuous and jittery motion &nbsp;&nbsp; With MDRM: smooth and continuous motion
 
 
