@@ -18,12 +18,24 @@ We conducted an inter-rater consistency analysis to validate the reliability of 
 ## Dynamic Respiratory Motion Registration Results
 <img src="https://github.com/computerAItest/PROVEN/blob/main/PROVEN/data/yiying1.png?raw=true" width="1200" alt="demo"/><br/>
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/computerAItest/PROVEN/blob/main/PROVEN/data/2drendering.gif?raw=true" width="300" alt="demo"/>
-    <img src="https://github.com/computerAItest/PROVEN/blob/main/PROVEN/data/3drendering.gif?raw=true" width="300" alt="demo"/>
-<img src="https://github.com/computerAItest/PROVEN/blob/main/PROVEN/data/tumorrendering.gif?raw=true" width="300" alt="demo"/>
-</div>
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/computerAItest/PROVEN/blob/main/PROVEN/data/2drendering.gif?raw=true" width="300"/><br/>
+2D rendering of respiratory motion after registration
+</td>
 
-2D rendering of respiratory motion after registration  &nbsp;&nbsp; 3D rendering of respiratory motion after registration &nbsp;&nbsp; Spatiotemporal tumor variation across phases after registration
+<td align="center">
+<img src="https://github.com/computerAItest/PROVEN/blob/main/PROVEN/data/3drendering.gif?raw=true" width="300"/><br/>
+3D rendering of respiratory motion after registration
+</td>
+
+<td align="center">
+<img src="https://github.com/computerAItest/PROVEN/blob/main/PROVEN/data/tumorrendering.gif?raw=true" width="300"/><br/>
+Spatiotemporal tumor variation across phases after registration
+</td>
+</tr>
+</table>
+
 
 
